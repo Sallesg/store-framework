@@ -9,10 +9,10 @@
       "image#brand6"
     ],
     "props": {
-      "autoplay": {
-        "timeout": 7000,
-        "stopOnHover": true
-      }
+      // "autoplay": {
+      //   "timeout": 7000,
+      //   "stopOnHover": true
+      // }
     }
   },
 
